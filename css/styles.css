@@ -10830,3 +10830,13 @@ textarea.form-control-lg {
   background-position: center;
   background-size: cover;
 }
+div.vid_contents {
+  width: 100%;/*背景色を横幅いっぱいに広げる*/
+  text-align: center;
+  margin: auto;
+  background: #e6e6e6;/*余白の背景色*/
+  }
+  video.vid_main {
+  width: 100%;
+  max-width: 920px;/*PC版での最大幅*/
+  }
